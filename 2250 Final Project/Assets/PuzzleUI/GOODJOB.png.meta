@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: 0bb0978fd81734d3e8d5047c3cf621a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 959838100101580576
+    second: GOODJOB_0
+  - first:
+      213: -5503298071792719375
+    second: GOODJOB_1
+  - first:
+      213: 6912368502748415015
+    second: GOODJOB_2
+  - first:
+      213: 3951800832347604183
+    second: GOODJOB_3
+  - first:
+      213: 1711609783170545119
+    second: GOODJOB_4
+  - first:
+      213: 4803100712353770517
+    second: GOODJOB_5
+  - first:
+      213: 2907112536109714411
+    second: GOODJOB_6
+  - first:
+      213: -3657048925695628346
+    second: GOODJOB_7
+  - first:
+      213: 2485069018841557371
+    second: GOODJOB_8
+  - first:
+      213: -2959938887369423169
+    second: GOODJOB_9
+  - first:
+      213: 719769868461055333
+    second: GOODJOB_10
+  - first:
+      213: 1333270388412050707
+    second: GOODJOB_11
+  - first:
+      213: 7122817391020556342
+    second: GOODJOB_12
+  - first:
+      213: -4758752184312863685
+    second: GOODJOB_13
+  - first:
+      213: 7696416259114537406
+    second: GOODJOB_14
+  - first:
+      213: -5650855552043207179
+    second: GOODJOB_15
+  - first:
+      213: 8822835735113544273
+    second: GOODJOB_16
+  - first:
+      213: 4606360726504784532
+    second: GOODJOB_17
+  - first:
+      213: -8912023476670608560
+    second: GOODJOB_18
+  - first:
+      213: -6234851866085739696
+    second: GOODJOB_19
+  - first:
+      213: -3916265800511732850
+    second: GOODJOB_20
+  - first:
+      213: 6361987073374324784
+    second: GOODJOB_21
+  - first:
+      213: -6808708101871865293
+    second: GOODJOB_22
+  - first:
+      213: -500999031019986964
+    second: GOODJOB_23
+  - first:
+      213: -1988387968340371959
+    second: GOODJOB_24
+  - first:
+      213: -844149126173622463
+    second: GOODJOB_25
+  - first:
+      213: 408132924779665172
+    second: GOODJOB_26
+  - first:
+      213: -1819783313973142124
+    second: GOODJOB_27
+  - first:
+      213: -4623805151849588946
+    second: GOODJOB_28
+  - first:
+      213: -1297128385746085421
+    second: GOODJOB_29
+  - first:
+      213: 1917504255642742303
+    second: GOODJOB_30
+  - first:
+      213: -573668024554779385
+    second: GOODJOB_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GOODJOB_0
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 172
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027c076aaa7025d00800000000000000
+      internalID: 959838100101580576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 172
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9e3b9bf8b50a3b0800000000000000
+      internalID: -5503298071792719375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 172
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7240beaa78aadef50800000000000000
+      internalID: 6912368502748415015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 172
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d40c236bed97d630800000000000000
+      internalID: 3951800832347604183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 172
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5b6ff770cd0c710800000000000000
+      internalID: 1711609783170545119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 172
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ca54466aa08a240800000000000000
+      internalID: 4803100712353770517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 172
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb87e4f273285820800000000000000
+      internalID: 2907112536109714411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 184
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb20b1c06d8f3dc0800000000000000
+      internalID: -3657048925695628346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 172
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79216e2b1dbc7220800000000000000
+      internalID: 2485069018841557371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 68
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb60b7da34f2ce6d0800000000000000
+      internalID: -2959938887369423169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d96a1c1e22df900800000000000000
+      internalID: 719769868461055333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31de8d2ba5ab08210800000000000000
+      internalID: 1333270388412050707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 68
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63041c7cda459d260800000000000000
+      internalID: 7122817391020556342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 68
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34eaefe91485fdb0800000000000000
+      internalID: -4758752184312863685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 68
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb110107fc92fca60800000000000000
+      internalID: 7696416259114537406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 70
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5bb6f90d02491b0800000000000000
+      internalID: -5650855552043207179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 68
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152b01f0b52017a70800000000000000
+      internalID: 8822835735113544273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 68
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492c0aadca41def30800000000000000
+      internalID: 4606360726504784532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_18
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 68
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b4b1badd1225480800000000000000
+      internalID: -8912023476670608560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 68
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05337cee24b5979a0800000000000000
+      internalID: -6234851866085739696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 68
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83cc72f001a6a9c0800000000000000
+      internalID: -3916265800511732850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_21
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 68
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0388a1639815a4850800000000000000
+      internalID: 6361987073374324784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 68
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3327a903e0c9281a0800000000000000
+      internalID: -6808708101871865293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 68
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef1d3329081c09f0800000000000000
+      internalID: -500999031019986964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_24
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 68
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906596f7da3d764e0800000000000000
+      internalID: -1988387968340371959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 68
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ff6fc97daf844f0800000000000000
+      internalID: -844149126173622463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_26
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 68
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41712a29bbaf9a500800000000000000
+      internalID: 408132924779665172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_27
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 68
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d9272b7b4deb6e0800000000000000
+      internalID: -1819783313973142124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_28
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 68
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27526d56b1f4dfb0800000000000000
+      internalID: -4623805151849588946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_29
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 68
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9578b0b9caffde0800000000000000
+      internalID: -1297128385746085421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_30
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 68
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ea2ec06f75c9a10800000000000000
+      internalID: 1917504255642742303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOODJOB_31
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 68
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d896998fbe908f0800000000000000
+      internalID: -573668024554779385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GOODJOB_0: 959838100101580576
+      GOODJOB_1: -5503298071792719375
+      GOODJOB_10: 719769868461055333
+      GOODJOB_11: 1333270388412050707
+      GOODJOB_12: 7122817391020556342
+      GOODJOB_13: -4758752184312863685
+      GOODJOB_14: 7696416259114537406
+      GOODJOB_15: -5650855552043207179
+      GOODJOB_16: 8822835735113544273
+      GOODJOB_17: 4606360726504784532
+      GOODJOB_18: -8912023476670608560
+      GOODJOB_19: -6234851866085739696
+      GOODJOB_2: 6912368502748415015
+      GOODJOB_20: -3916265800511732850
+      GOODJOB_21: 6361987073374324784
+      GOODJOB_22: -6808708101871865293
+      GOODJOB_23: -500999031019986964
+      GOODJOB_24: -1988387968340371959
+      GOODJOB_25: -844149126173622463
+      GOODJOB_26: 408132924779665172
+      GOODJOB_27: -1819783313973142124
+      GOODJOB_28: -4623805151849588946
+      GOODJOB_29: -1297128385746085421
+      GOODJOB_3: 3951800832347604183
+      GOODJOB_30: 1917504255642742303
+      GOODJOB_31: -573668024554779385
+      GOODJOB_4: 1711609783170545119
+      GOODJOB_5: 4803100712353770517
+      GOODJOB_6: 2907112536109714411
+      GOODJOB_7: -3657048925695628346
+      GOODJOB_8: 2485069018841557371
+      GOODJOB_9: -2959938887369423169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

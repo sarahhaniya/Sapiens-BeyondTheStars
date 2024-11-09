@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abef106e77ba4b9a9ad76034819fa51, type: 3}
+  m_Name: EntryDialogue
+  m_EditorClassIdentifier: 
+  dialogue:
+  - A faint presence of a human can be felt upon
+  - entering this planet...
+  - There also seems to be many strong monsters
+  - and icy obstacles blocking the way.
+  - 'The various shelters on this planet will heal you '
+  - and act as a checkpoint if you are defeated.
+  - 'Your weapon has been upgraded to a '
+  - 'flamethrower!
+
+    (Hold Space to use.)'

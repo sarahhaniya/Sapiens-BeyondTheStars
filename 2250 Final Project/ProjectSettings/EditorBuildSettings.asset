@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 38ea549e823604248953c6c7effa9444
+  - enabled: 1
+    path: Assets/Scenes/StoryScene.unity
+    guid: 5b587116e390b4ba39abcbb93a5c01fd
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: 32d2598c517aa36419e9bfad2dc8232e
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: a41e1af2c9bd04b64a36a3182e4ecf16
+  - enabled: 1
+    path: Assets/Scenes/HelpMenuScene.unity
+    guid: 53626563e928a48f78ad06ba3412b16a
+  - enabled: 1
+    path: Assets/Scenes/LevelOne.unity
+    guid: 3d20a68870206ac4c88bdd110513120f
+  - enabled: 1
+    path: Assets/Scenes/FallingObject.unity
+    guid: 16b6ae038013f7642923cf1963f25796
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection2.unity
+    guid: 5452bd4b26b074bd1a36da0c28dcb0be
+  - enabled: 1
+    path: Assets/Scenes/LevelTwo-2.unity
+    guid: 1078abec9482c4678a1c01c096343bbc
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: d5669b70a003249c9b1ce63e527572f3
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection3.unity
+    guid: ce0eee5e03a7d4754a9e3d5ad05d35cf
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: e05cdc556cad24d319b48b0510fdf897
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: ab6c11a07863c412a88e62b62c77589d
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88b8fa6bf54a67f4bbefcc8419735e3b, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: H0P3
+    charSprite: {fileID: 21300000, guid: 82bb9b3c5dfd8214dbd34435929ed207, type: 3}
+  - characterName: Timo-T30
+    charSprite: {fileID: 21300000, guid: 6dce847f9293757478c5750bf492d63f, type: 3}
+  - characterName: C05M0
+    charSprite: {fileID: 21300000, guid: fec941a2d623e214dacc2a279cc08526, type: 3}
+  - characterName: N0M4D
+    charSprite: {fileID: 21300000, guid: 19d035ffdb87d6449bd128d0a568905e, type: 3}
+  - characterName: K0-K1
+    charSprite: {fileID: 21300000, guid: 3ffb2e4a053ade34a9c50c9998f2fb2e, type: 3}
